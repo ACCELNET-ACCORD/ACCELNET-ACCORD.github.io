@@ -7028,7 +7028,7 @@ a {
 }
 .cid-uIu8ts3ndL .dropdown-menu,
 .cid-uIu8ts3ndL .navbar.opened {
-  background: #ffffff !important;
+  background: #fafafa !important;
 }
 .cid-uIu8ts3ndL .nav-item:focus,
 .cid-uIu8ts3ndL .nav-link:focus {
@@ -7063,7 +7063,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #ffffff;
+  background: #fafafa;
 }
 .cid-uIu8ts3ndL .navbar.opened {
   transition: all 0.3s;
@@ -7203,7 +7203,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-uIu8ts3ndL .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #fafafa;
 }
 .cid-uIu8ts3ndL .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
